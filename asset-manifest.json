@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "/tgusterson/React-Rock-Paper-Scissors/static/js/main.36eedd7b.chunk.js",
-    "main.js.map": "/tgusterson/React-Rock-Paper-Scissors/static/js/main.36eedd7b.chunk.js.map",
-    "runtime-main.js": "/tgusterson/React-Rock-Paper-Scissors/static/js/runtime-main.0d842e49.js",
-    "runtime-main.js.map": "/tgusterson/React-Rock-Paper-Scissors/static/js/runtime-main.0d842e49.js.map",
-    "static/js/2.b4c6bc5c.chunk.js": "/tgusterson/React-Rock-Paper-Scissors/static/js/2.b4c6bc5c.chunk.js",
-    "static/js/2.b4c6bc5c.chunk.js.map": "/tgusterson/React-Rock-Paper-Scissors/static/js/2.b4c6bc5c.chunk.js.map",
-    "index.html": "/tgusterson/React-Rock-Paper-Scissors/index.html",
-    "precache-manifest.9ed2fa03fc0f2a9176901ea88fa5835c.js": "/tgusterson/React-Rock-Paper-Scissors/precache-manifest.9ed2fa03fc0f2a9176901ea88fa5835c.js",
-    "service-worker.js": "/tgusterson/React-Rock-Paper-Scissors/service-worker.js",
-    "static/js/2.b4c6bc5c.chunk.js.LICENSE.txt": "/tgusterson/React-Rock-Paper-Scissors/static/js/2.b4c6bc5c.chunk.js.LICENSE.txt",
-    "static/media/bg-triangle.svg": "/tgusterson/React-Rock-Paper-Scissors/static/media/bg-triangle.1fd44bdf.svg",
-    "static/media/icon-close.svg": "/tgusterson/React-Rock-Paper-Scissors/static/media/icon-close.919ab92a.svg",
-    "static/media/icon-paper.svg": "/tgusterson/React-Rock-Paper-Scissors/static/media/icon-paper.69a8c2e9.svg",
-    "static/media/icon-rock.svg": "/tgusterson/React-Rock-Paper-Scissors/static/media/icon-rock.8ce1e109.svg",
-    "static/media/icon-scissors.svg": "/tgusterson/React-Rock-Paper-Scissors/static/media/icon-scissors.bec2f9b3.svg",
-    "static/media/image-rules.svg": "/tgusterson/React-Rock-Paper-Scissors/static/media/image-rules.5d74d25d.svg",
-    "static/media/logo.svg": "/tgusterson/React-Rock-Paper-Scissors/static/media/logo.759a2075.svg"
+    "main.js": "/React-Rock-Paper-Scissors/static/js/main.36eedd7b.chunk.js",
+    "main.js.map": "/React-Rock-Paper-Scissors/static/js/main.36eedd7b.chunk.js.map",
+    "runtime-main.js": "/React-Rock-Paper-Scissors/static/js/runtime-main.8d0fe84f.js",
+    "runtime-main.js.map": "/React-Rock-Paper-Scissors/static/js/runtime-main.8d0fe84f.js.map",
+    "static/js/2.8a144005.chunk.js": "/React-Rock-Paper-Scissors/static/js/2.8a144005.chunk.js",
+    "static/js/2.8a144005.chunk.js.map": "/React-Rock-Paper-Scissors/static/js/2.8a144005.chunk.js.map",
+    "index.html": "/React-Rock-Paper-Scissors/index.html",
+    "precache-manifest.3ff5de6cdda0a3a436149c3bebe5cfa9.js": "/React-Rock-Paper-Scissors/precache-manifest.3ff5de6cdda0a3a436149c3bebe5cfa9.js",
+    "service-worker.js": "/React-Rock-Paper-Scissors/service-worker.js",
+    "static/js/2.8a144005.chunk.js.LICENSE.txt": "/React-Rock-Paper-Scissors/static/js/2.8a144005.chunk.js.LICENSE.txt",
+    "static/media/bg-triangle.svg": "/React-Rock-Paper-Scissors/static/media/bg-triangle.1fd44bdf.svg",
+    "static/media/icon-close.svg": "/React-Rock-Paper-Scissors/static/media/icon-close.919ab92a.svg",
+    "static/media/icon-paper.svg": "/React-Rock-Paper-Scissors/static/media/icon-paper.69a8c2e9.svg",
+    "static/media/icon-rock.svg": "/React-Rock-Paper-Scissors/static/media/icon-rock.8ce1e109.svg",
+    "static/media/icon-scissors.svg": "/React-Rock-Paper-Scissors/static/media/icon-scissors.bec2f9b3.svg",
+    "static/media/image-rules.svg": "/React-Rock-Paper-Scissors/static/media/image-rules.5d74d25d.svg",
+    "static/media/logo.svg": "/React-Rock-Paper-Scissors/static/media/logo.759a2075.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d842e49.js",
-    "static/js/2.b4c6bc5c.chunk.js",
+    "static/js/runtime-main.8d0fe84f.js",
+    "static/js/2.8a144005.chunk.js",
     "static/js/main.36eedd7b.chunk.js"
   ]
 }
