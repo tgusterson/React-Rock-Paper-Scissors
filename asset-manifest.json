@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/React-Rock-Paper-Scissors/static/js/main.36eedd7b.chunk.js",
-    "main.js.map": "/React-Rock-Paper-Scissors/static/js/main.36eedd7b.chunk.js.map",
+    "main.js": "/React-Rock-Paper-Scissors/static/js/main.5b0bfcdc.chunk.js",
+    "main.js.map": "/React-Rock-Paper-Scissors/static/js/main.5b0bfcdc.chunk.js.map",
     "runtime-main.js": "/React-Rock-Paper-Scissors/static/js/runtime-main.8d0fe84f.js",
     "runtime-main.js.map": "/React-Rock-Paper-Scissors/static/js/runtime-main.8d0fe84f.js.map",
     "static/js/2.8a144005.chunk.js": "/React-Rock-Paper-Scissors/static/js/2.8a144005.chunk.js",
     "static/js/2.8a144005.chunk.js.map": "/React-Rock-Paper-Scissors/static/js/2.8a144005.chunk.js.map",
     "index.html": "/React-Rock-Paper-Scissors/index.html",
-    "precache-manifest.3ff5de6cdda0a3a436149c3bebe5cfa9.js": "/React-Rock-Paper-Scissors/precache-manifest.3ff5de6cdda0a3a436149c3bebe5cfa9.js",
+    "precache-manifest.07dd5603569648e23df5a91e653573f8.js": "/React-Rock-Paper-Scissors/precache-manifest.07dd5603569648e23df5a91e653573f8.js",
     "service-worker.js": "/React-Rock-Paper-Scissors/service-worker.js",
     "static/js/2.8a144005.chunk.js.LICENSE.txt": "/React-Rock-Paper-Scissors/static/js/2.8a144005.chunk.js.LICENSE.txt",
     "static/media/bg-triangle.svg": "/React-Rock-Paper-Scissors/static/media/bg-triangle.1fd44bdf.svg",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.8d0fe84f.js",
     "static/js/2.8a144005.chunk.js",
-    "static/js/main.36eedd7b.chunk.js"
+    "static/js/main.5b0bfcdc.chunk.js"
   ]
 }
