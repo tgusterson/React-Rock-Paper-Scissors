@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9adfcc6f5685ae3d793b87642b0d8df5",
+    "revision": "ae6c3a38b547560ab2e85ff72f0be59a",
     "url": "/React-Rock-Paper-Scissors/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Rock-Paper-Scissors/static/js/2.8a144005.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b4d5017b70b242f93c8",
-    "url": "/React-Rock-Paper-Scissors/static/js/main.5b0bfcdc.chunk.js"
+    "revision": "08ed29eea4fd8e5b8489",
+    "url": "/React-Rock-Paper-Scissors/static/js/main.8f6d8161.chunk.js"
   },
   {
     "revision": "3708e3b76d84df91bdb5",
