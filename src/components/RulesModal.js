@@ -31,7 +31,7 @@ const RulesModalContainer = styled.div`
         
     h1 {
       position: absolute;
-      top: 100px;
+      top: 80px;
       left: 50%;
       margin-left: -37.2px;
       text-transform: uppercase;
@@ -41,14 +41,14 @@ const RulesModalContainer = styled.div`
 
     img{
       position: absolute;
-      top: 240px;
+      top: 220px;
       left: 50%;
       margin-left: -151px;
     }
 
     img:last-child {
       position: absolute;
-      top: 665px;
+      top: 645px;
       cursor: pointer;
       left: 50%;
       margin-left: 0px;
@@ -56,12 +56,12 @@ const RulesModalContainer = styled.div`
 
     @media screen and (min-width: ${desktopBreakpoint}) {
       position: absolute;
-      height: 430px;
-      width: 410px;
+      height: 420px;
+      width: 400px;
       top: 50%;
       left: 50%;
       margin-left: -200px;
-      margin-top: -570px;
+      margin-top: -400px;
       border-radius: 15px;
 
       h1 {
@@ -75,7 +75,7 @@ const RulesModalContainer = styled.div`
 
       img:last-child {
         top: 30px;
-        left: 360px;
+        left: 350px;
       }
     }
 `;
